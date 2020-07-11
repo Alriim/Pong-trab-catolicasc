@@ -1,2 +1,2 @@
-# Pong-trab-catolicasc
-Pong-trab-catolicasc
+# Pong-Games---Catolica-SC
+Pong games with canvas
